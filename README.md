@@ -5,7 +5,7 @@ Profile README for: github.com/wintervolcano
 <h1 align="center">Hi, I'm Fazal Kareem 👋</h1>
 
 <p align="center">
-  <b>PhD student · Pulsar astronomer · Gravitational waves & globular clusters</b><br/>
+  <b>PhD student · Pulsar astronomer · Globular Cluster Pulsars, Double Neutron Stars & Gravitation Waves</b><br/>
   Max Planck Institute for Radio Astronomy · COMPACT project
 </p>
 
