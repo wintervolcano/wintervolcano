@@ -10,7 +10,7 @@ Profile README for: github.com/wintervolcano
 </p>
 
 <p align="center">
-  <a href="https://fazalkareem.webflow.io/">🌐 Website</a> •
+  <a href="https://fazalkareem.com/">🌐 Website</a> •
   <a href="mailto:fkareem@mpifr-bonn.mpg.de">✉️ Email</a> •
   <a href="https://scholar.google.com/citations?user=1oB-O_EAAAAJ">📚 Google Scholar</a> •
   <a href="https://orcid.org/0000-0003-2444-838X">🧾 ORCID</a> •
