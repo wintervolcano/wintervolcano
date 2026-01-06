@@ -71,7 +71,6 @@ A few recent papers I’ve co-authored (see my Google Scholar / ORCID for the fu
    _Astronomy & Astrophysics, 2023–2024_  
    [EPTA DR2 overview](https://www.epta.eu.org/audience/scientific-results/epta-dr2/)
 
-> 💡 You can keep this section short and point people to Google Scholar / ORCID for a complete, always-up-to-date list.
 
 ---
 
